@@ -1,6 +1,6 @@
 Codewars:
 <ol>
-     <li>http://www.codewars.com/kata/opposite-number</li>
+     <li style="text-decoration:line-through">http://www.codewars.com/kata/opposite-number</li>
      <li>http://www.codewars.com/kata/basic-mathematical-operations</li>
      <li>http://www.codewars.com/kata/printing-array-elements-with-comma-delimiters</li>
      <li>http://www.codewars.com/kata/transportation-on-vacation</li>
