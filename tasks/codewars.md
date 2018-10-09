@@ -1,37 +1,38 @@
 Codewars:
-<ol><li>asd</li></ol>
-     1. http://www.codewars.com/kata/opposite-number
-     2. http://www.codewars.com/kata/basic-mathematical-operations
-     3. http://www.codewars.com/kata/printing-array-elements-with-comma-delimiters
-     4. http://www.codewars.com/kata/transportation-on-vacation
-     5. http://www.codewars.com/kata/get-the-middle-character
-     6. http://www.codewars.com/kata/partition-on
-     7. http://www.codewars.com/kata/word-count
-     8. http://www.codewars.com/kata/remove-first-and-last-character-part-two
-     9. http://www.codewars.com/kata/implement-a-filter-function
-     10. http://www.codewars.com/kata/prefill-an-array
-     11. http://www.codewars.com/kata/cross-product-of-vectors
-     12. http://www.codewars.com/kata/sequence-generator-1
-     13. https://www.codewars.com/kata/base-conversion/
-     14. http://www.codewars.com/kata/closures-and-scopes
-     15. http://www.codewars.com/kata/a-function-within-a-function
-     16. http://www.codewars.com/kata/can-you-keep-a-secret
-     17. http://www.codewars.com/kata/using-closures-to-share-class-state
-     18. http://www.codewars.com/kata/a-chain-adding-function
-     19. http://www.codewars.com/kata/function-cache
-     20. http://www.codewars.com/kata/function-composition
-     21. http://www.codewars.com/kata/function-composition-1
-     22. http://www.codewars.com/kata/stringing-me-along
-     23. http://www.codewars.com/kata/i-spy
-     24. http://www.codewars.com/kata/calculating-with-functions
-     25. http://www.codewars.com/kata/santaclausable-interface
-     26. http://www.codewars.com/kata/new-with-apply
-     27. http://www.codewars.com/kata/extract-nested-object-reference
-     28. http://www.codewars.com/kata/array-helpers
-     29. http://www.codewars.com/kata/replicate-new
-     30. http://www.codewars.com/kata/sum-of-digits-slash-digital-root/
-     31. http://www.codewars.com/kata/fun-with-es6-classes-number-2-animals-and-inheritance
-     32. http://www.codewars.com/kata/fun-with-es6-classes-number-3-cuboids-cubes-and-getters
+<ol>
+     <li>http://www.codewars.com/kata/opposite-number</li>
+     <li>http://www.codewars.com/kata/basic-mathematical-operations</li>
+     <li>http://www.codewars.com/kata/printing-array-elements-with-comma-delimiters</li>
+     <li>http://www.codewars.com/kata/transportation-on-vacation</li>
+     <li>http://www.codewars.com/kata/get-the-middle-character</li>
+     <li>http://www.codewars.com/kata/partition-on</li>
+     <li>http://www.codewars.com/kata/word-count</li>
+     <li>http://www.codewars.com/kata/remove-first-and-last-character-part-two</li>
+     <li>http://www.codewars.com/kata/implement-a-filter-function</li>
+     <li>http://www.codewars.com/kata/prefill-an-array</li>
+     <li>http://www.codewars.com/kata/cross-product-of-vectors</li>
+     <li>http://www.codewars.com/kata/sequence-generator-1</li>
+     <li>https://www.codewars.com/kata/base-conversion/</li>
+     <li>http://www.codewars.com/kata/closures-and-scopes</li>
+     <li>http://www.codewars.com/kata/a-function-within-a-function</li>
+     <li>http://www.codewars.com/kata/can-you-keep-a-secret</li>
+     <li>http://www.codewars.com/kata/using-closures-to-share-class-state</li>
+     <li>http://www.codewars.com/kata/a-chain-adding-function</li>
+     <li>http://www.codewars.com/kata/function-cache</li>
+     <li>http://www.codewars.com/kata/function-composition</li>
+     <li>http://www.codewars.com/kata/function-composition-1</li>
+     <li>http://www.codewars.com/kata/stringing-me-along</li>
+     <li>http://www.codewars.com/kata/i-spy</li>
+     <li>http://www.codewars.com/kata/calculating-with-functions</li>
+     <li>http://www.codewars.com/kata/santaclausable-interface</li>
+     <li>http://www.codewars.com/kata/new-with-apply</li>
+     <li>http://www.codewars.com/kata/extract-nested-object-reference</li>
+     <li>http://www.codewars.com/kata/array-helpers</li>
+     <li>http://www.codewars.com/kata/replicate-new</li>
+     <li>http://www.codewars.com/kata/sum-of-digits-slash-digital-root/</li>
+     <li>http://www.codewars.com/kata/fun-with-es6-classes-number-2-animals-and-inheritance</li>
+     <li>http://www.codewars.com/kata/fun-with-es6-classes-number-3-cuboids-cubes-and-getters</li>
+</ol>
      
   - __Optional__
      - http://www.codewars.com/kata/lazy-evaluation
