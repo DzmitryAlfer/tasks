@@ -3,7 +3,7 @@ Codewars:
      <li><s>http://www.codewars.com/kata/opposite-number</s></li>
      <li><s>http://www.codewars.com/kata/basic-mathematical-operations</s></li>
      <li><s>http://www.codewars.com/kata/printing-array-elements-with-comma-delimiters</s></li>
-     <li>http://www.codewars.com/kata/transportation-on-vacation</li>
+     <li><s>http://www.codewars.com/kata/transportation-on-vacation</s></li>
      <li>http://www.codewars.com/kata/get-the-middle-character</li>
      <li>http://www.codewars.com/kata/partition-on</li>
      <li>http://www.codewars.com/kata/word-count</li>
