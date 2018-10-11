@@ -7,7 +7,7 @@ Codewars:
      <li><s>http://www.codewars.com/kata/get-the-middle-character</s></li>
      <li><s>http://www.codewars.com/kata/partition-on</s></li>
      <li><s>http://www.codewars.com/kata/word-count</s></li>
-     <li>http://www.codewars.com/kata/remove-first-and-last-character-part-two</li>
+     <li><s>http://www.codewars.com/kata/remove-first-and-last-character-part-two</s></li>
      <li>http://www.codewars.com/kata/implement-a-filter-function</li>
      <li>http://www.codewars.com/kata/prefill-an-array</li>
      <li>http://www.codewars.com/kata/cross-product-of-vectors</li>
