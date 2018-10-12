@@ -10,7 +10,7 @@ Codewars:
      <li><s>http://www.codewars.com/kata/remove-first-and-last-character-part-two</s></li>
      <li><s>http://www.codewars.com/kata/implement-a-filter-function</s></li>
      <li><s>http://www.codewars.com/kata/prefill-an-array</s></li>
-     <li>http://www.codewars.com/kata/cross-product-of-vectors</li>
+     <li><s>http://www.codewars.com/kata/cross-product-of-vectors</s></li>
      <li>http://www.codewars.com/kata/sequence-generator-1</li>
      <li>https://www.codewars.com/kata/base-conversion/</li>
      <li>http://www.codewars.com/kata/closures-and-scopes</li>
