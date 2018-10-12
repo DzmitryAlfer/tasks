@@ -12,7 +12,7 @@ Codewars:
      <li><s>http://www.codewars.com/kata/prefill-an-array</s></li>
      <li><s>http://www.codewars.com/kata/cross-product-of-vectors</s></li>
      <li><s>http://www.codewars.com/kata/sequence-generator-1</s></li>
-     <li>http://www.codewars.com/kata/base-conversion/</li>
+     <li><s>http://www.codewars.com/kata/base-conversion/</s></li>
      <li>http://www.codewars.com/kata/closures-and-scopes</li>
      <li>http://www.codewars.com/kata/a-function-within-a-function</li>
      <li>http://www.codewars.com/kata/can-you-keep-a-secret</li>
