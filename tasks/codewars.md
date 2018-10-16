@@ -14,7 +14,7 @@ Codewars:
      <li><s>http://www.codewars.com/kata/sequence-generator-1</s></li>
      <li><s>http://www.codewars.com/kata/base-conversion/</s></li>
      <li><s>http://www.codewars.com/kata/closures-and-scopes</s></li>
-     <li>http://www.codewars.com/kata/a-function-within-a-function</li>
+     <li><s>http://www.codewars.com/kata/a-function-within-a-function</s></li>
      <li>http://www.codewars.com/kata/can-you-keep-a-secret</li>
      <li>http://www.codewars.com/kata/using-closures-to-share-class-state</li>
      <li>http://www.codewars.com/kata/a-chain-adding-function</li>
