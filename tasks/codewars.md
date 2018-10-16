@@ -13,7 +13,7 @@ Codewars:
      <li><s>http://www.codewars.com/kata/cross-product-of-vectors</s></li>
      <li><s>http://www.codewars.com/kata/sequence-generator-1</s></li>
      <li><s>http://www.codewars.com/kata/base-conversion/</s></li>
-     <li>http://www.codewars.com/kata/closures-and-scopes</li>
+     <li><s>http://www.codewars.com/kata/closures-and-scopes</s></li>
      <li>http://www.codewars.com/kata/a-function-within-a-function</li>
      <li>http://www.codewars.com/kata/can-you-keep-a-secret</li>
      <li>http://www.codewars.com/kata/using-closures-to-share-class-state</li>
