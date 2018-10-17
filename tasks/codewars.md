@@ -16,7 +16,7 @@ Codewars:
      <li><s>http://www.codewars.com/kata/closures-and-scopes</s></li>
      <li><s>http://www.codewars.com/kata/a-function-within-a-function</s></li>
      <li><s>http://www.codewars.com/kata/can-you-keep-a-secret</s></li>
-     <li>http://www.codewars.com/kata/using-closures-to-share-class-state</li>
+     <li><s>http://www.codewars.com/kata/using-closures-to-share-class-state</s></li>
      <li><s>http://www.codewars.com/kata/a-chain-adding-function</s></li>
      <li>http://www.codewars.com/kata/function-cache</li>
      <li>http://www.codewars.com/kata/function-composition</li>
