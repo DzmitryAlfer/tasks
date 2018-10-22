@@ -18,7 +18,7 @@ Codewars:
      <li><s>http://www.codewars.com/kata/can-you-keep-a-secret</s></li>
      <li><s>http://www.codewars.com/kata/using-closures-to-share-class-state</s></li>
      <li><s>http://www.codewars.com/kata/a-chain-adding-function</s></li>
-     <li>http://www.codewars.com/kata/function-cache</li>
+     <li><s>http://www.codewars.com/kata/function-cache</s></li>
      <li>http://www.codewars.com/kata/function-composition</li>
      <li>http://www.codewars.com/kata/function-composition-1</li>
      <li>http://www.codewars.com/kata/stringing-me-along</li>
