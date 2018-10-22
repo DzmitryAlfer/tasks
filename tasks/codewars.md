@@ -19,7 +19,7 @@ Codewars:
      <li><s>http://www.codewars.com/kata/using-closures-to-share-class-state</s></li>
      <li><s>http://www.codewars.com/kata/a-chain-adding-function</s></li>
      <li><s>http://www.codewars.com/kata/function-cache</s></li>
-     <li>http://www.codewars.com/kata/function-composition</li>
+     <li><s>http://www.codewars.com/kata/function-composition</s></li>
      <li>http://www.codewars.com/kata/function-composition-1</li>
      <li>http://www.codewars.com/kata/stringing-me-along</li>
      <li>http://www.codewars.com/kata/i-spy</li>
