@@ -20,7 +20,7 @@ Codewars:
      <li><s>http://www.codewars.com/kata/a-chain-adding-function</s></li>
      <li><s>http://www.codewars.com/kata/function-cache</s></li>
      <li><s>http://www.codewars.com/kata/function-composition</s></li>
-     <li>http://www.codewars.com/kata/function-composition-1</li>
+     <li><s>http://www.codewars.com/kata/function-composition-1</s></li>
      <li>http://www.codewars.com/kata/stringing-me-along</li>
      <li>http://www.codewars.com/kata/i-spy</li>
      <li>http://www.codewars.com/kata/calculating-with-functions</li>
