@@ -21,8 +21,8 @@ Codewars:
      <li><s>http://www.codewars.com/kata/function-cache</s></li>
      <li><s>http://www.codewars.com/kata/function-composition</s></li>
      <li><s>http://www.codewars.com/kata/function-composition-1</s></li>
-     <li>http://www.codewars.com/kata/stringing-me-along</li>
-     <li>http://www.codewars.com/kata/i-spy</li>
+     <li><s>http://www.codewars.com/kata/stringing-me-along</s></li>
+     <li><s>http://www.codewars.com/kata/i-spy</s></li>
      <li>http://www.codewars.com/kata/calculating-with-functions</li>
      <li>http://www.codewars.com/kata/santaclausable-interface</li>
      <li>http://www.codewars.com/kata/new-with-apply</li>
