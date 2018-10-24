@@ -10,6 +10,7 @@
 - **Stage #2**
   * [Технический скрининг.](/tasks/technical-screening.md)
   * [Codewars](/tasks/codewars.md)
+  * [Homework: markup-2018q3] (/tasks/markup-2018q3.md)
 - **Stage #3**
   * ...
   * [К моменту окончания курса ваш уровень английского должен быть уровня A2 (pre-intermediate) или выше.](https://github.com/rolling-scopes-school/tasks/blob/2017-Q3/tasks/english.md)
