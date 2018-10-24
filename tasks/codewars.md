@@ -25,12 +25,12 @@ Codewars:
      <li><s>http://www.codewars.com/kata/i-spy</s></li>
      <li><s>http://www.codewars.com/kata/calculating-with-functions</s></li>
      <li><s>http://www.codewars.com/kata/santaclausable-interface</s></li>
-     <li>http://www.codewars.com/kata/new-with-apply</li>
-     <li>http://www.codewars.com/kata/extract-nested-object-reference</li>
-     <li>http://www.codewars.com/kata/array-helpers</li>
-     <li>http://www.codewars.com/kata/replicate-new</li>
-     <li>http://www.codewars.com/kata/sum-of-digits-slash-digital-root/</li>
-     <li>http://www.codewars.com/kata/fun-with-es6-classes-number-2-animals-and-inheritance</li>
+     <li><s>http://www.codewars.com/kata/new-with-apply</s></li>
+     <li><s>http://www.codewars.com/kata/extract-nested-object-reference</s></li>
+     <li><s>http://www.codewars.com/kata/array-helpers</s></li>
+     <li><s>http://www.codewars.com/kata/replicate-new</s></li>
+     <li><s>http://www.codewars.com/kata/sum-of-digits-slash-digital-root/</s></li>
+     <li><s>http://www.codewars.com/kata/fun-with-es6-classes-number-2-animals-and-inheritance</s></li>
      <li>http://www.codewars.com/kata/fun-with-es6-classes-number-3-cuboids-cubes-and-getters</li>
 </ol>
      
